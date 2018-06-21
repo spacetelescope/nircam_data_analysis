@@ -1,6 +1,6 @@
 # NIRCam Data Analysis (nircam_data_analysis)
 
-This is a collection of NIRCam software for post-pipeline data analysis: 
+This is a collection of NIRCam software for post-pipeline data analysis, including: 
 
 - photometry tools
 - spectral analysis tools for WFSS
