@@ -18,10 +18,10 @@ If you want to suggest changes for anything in these repos, do the following:
    * using HTTPS (`git clone https://github.com/spacetelescope/nircam_data_analysis.git`)
 2. Change to `nircam_data_analysis` directory (`cd nircam_data_analysis`)
 3. Install (`python setup.py install`)
-2. Create your own branch (`git checkout -b my-new-imaging-feature`)
-3. Commit your changes (`git commit -am 'Added some feature to imaging scripts'`)
-4. Push to the branch (`git push origin my-new-imaging-feature`)
-5. Create a new Pull Request
+4. Create your own branch (`git checkout -b my-new-imaging-feature`)
+5. Commit your changes (`git commit -am 'Added some feature to imaging scripts'`)
+6. Push to the branch (`git push origin my-new-imaging-feature`)
+7. Create a new Pull Request
 
 See the following for a standard package template for repositories under the "spacetelescope" organization:
 
