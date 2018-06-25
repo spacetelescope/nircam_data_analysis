@@ -13,7 +13,7 @@ This is a collection of NIRCam software for post-pipeline data analysis, includi
 
 If you want to suggest changes for anything in these repos, do the following:
 
-1. Fork the repo
+1. Clone the repo (`git clone git@github.com:spacetelescope/nircam_data_analysis.git`)
 2. Create your own branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
