@@ -10,7 +10,7 @@ This is a collection of NIRCam software for post-pipeline data analysis, includi
 
 ## Contributing
 
-Prior to contributing to the data analysis tools, please review our style guide.
+Prior to contributing to the data analysis tools, please review our [style guide](https://github.com/spacetelescope/nircam_data_analysis/tree/add_missing_files/style_guide).
 
 The following is an example of the work flow for contributing to the project:
 
