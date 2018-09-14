@@ -21,6 +21,7 @@ If you want to suggest changes for anything in these repos, do the following:
 5. Commit your changes (`git commit -am 'Added some feature to imaging scripts'`)
 6. Push to the branch (`git push origin my-new-imaging-feature`)
 7. Create a new Pull Request
+8. Assign someone from the team as a reviewer (changes should be reviewed by at least one person)
 
 See the following for a standard package template for repositories under the "spacetelescope" organization:
 
