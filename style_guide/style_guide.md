@@ -1,4 +1,4 @@
-Python Code Style Guide for `nircam_data_analysis_tools`
+Python Code Style Guide for `data_analysis_tools`
 ===================================
 
 This document serves as a style guide for all `nircam_data_analysis_tools` software development.  Any requested contribution to the code repository should be checked against this guide, and any violation of the guide should be fixed before the code is committed to
