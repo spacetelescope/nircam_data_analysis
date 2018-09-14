@@ -10,7 +10,9 @@ This is a collection of NIRCam software for post-pipeline data analysis, includi
 
 ## Contributing
 
-If you want to suggest changes for anything in these repos, do the following:
+Prior to contributing to the data analysis tools, please review our [style guide](https://github.com/spacetelescope/nircam_data_analysis/tree/add_missing_files/style_guide).
+
+The following is an example of the work flow for contributing to the project:
 
 1. Clone the repo:
    * using SSH (`git clone git@github.com:spacetelescope/nircam_data_analysis.git`)
@@ -21,10 +23,11 @@ If you want to suggest changes for anything in these repos, do the following:
 5. Commit your changes (`git commit -am 'Added some feature to imaging scripts'`)
 6. Push to the branch (`git push origin my-new-imaging-feature`)
 7. Create a new Pull Request
+8. Assign someone from the team as a reviewer (changes should be reviewed by at least one person)
 
-See the following for a standard package template for repositories under the "spacetelescope" organization:
+See the following Style Guides project for more information on software best practices at STScI:
 
-- [STScI package template](https://github.com/spacetelescope/stsci-package-template)
+- [STScI style guides](https://github.com/spacetelescope/style-guides)
 
 
 ## Issues
